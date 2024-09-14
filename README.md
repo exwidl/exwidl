@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @exwidl
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning pythonm java
+- 📫 How to reach me: dont reach me
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: i dont know how to code xd
