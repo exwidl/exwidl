@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning pythonm java
 - 📫 How to reach me: dont reach me
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: i dont know how to code xd
+- ⚡ Fun fact: I don`t work with github for now tbh, but soon I will
