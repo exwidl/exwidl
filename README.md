@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @exwidl
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning pythonm java
+- 🌱 I’m currently learning python
 - 📫 How to reach me: dont reach me
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I don`t work with github for now tbh, but soon I will
+- ⚡ Fun fact: I like automatization
